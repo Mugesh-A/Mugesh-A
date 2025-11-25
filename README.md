@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ About Me (GPRM Ready)<br><br>👨‍💻 I'm currently working on<br>Building web applications using Python and Django, learning backend development, CRUD operations, templates, forms, URL routing, and Django MVT architecture. I also work with Git, Docker, and Linux-based development.<br><br>🤝 I'm looking to collaborate on<br>Cloud projects related to AWS / GCP, Django backend systems, automation scripts, and beginner-friendly DevOps workflows.<br><br>🆘 I'm looking for help with<br>Improving production-level backend development, optimizing Django performance, and learning advanced DevOps and CI/CD tools.<br><br>📚 I'm currently learning<br>Python, Django, JavaScript basics, Cloud Computing (AWS & GCP), Networking, Linux, and DevOps practices.<br><br>💬 Ask me about<br>AWS VPC design, EC2, S3, Load Balancers, Django MVT, CRUD operations, Python scripting, GCP Compute Engine, Cloud SQL, and basic networking.<br><br>🤣 Fun fact<br>I turned an old laptop and an old Android phone into a home cloud backup system using Debian, Python, and Google Photos sync!
+⭐ About Me <br><br>👨‍💻 I'm currently working on<br>Building web applications using Python and Django, learning backend development, CRUD operations, templates, forms, URL routing, and Django MVT architecture. I also work with Git, Docker, and Linux-based development.<br><br>🤝 I'm looking to collaborate on<br>Cloud projects related to AWS / GCP, Django backend systems, automation scripts, and beginner-friendly DevOps workflows.<br><br>🆘 I'm looking for help with<br>Improving production-level backend development, optimizing Django performance, and learning advanced DevOps and CI/CD tools.<br><br>📚 I'm currently learning<br>Python, Django, JavaScript basics, Cloud Computing (AWS & GCP), Networking, Linux, and DevOps practices.<br><br>💬 Ask me about<br>AWS VPC design, EC2, S3, Load Balancers, Django MVT, CRUD operations, Python scripting, GCP Compute Engine, Cloud SQL, and basic networking.<br><br>🤣 Fun fact<br>I turned an old laptop and an old Android phone into a home cloud backup system using Debian, Python, and Google Photos sync!
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mugesh-A&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugesh-A&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
